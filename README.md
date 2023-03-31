@@ -26,3 +26,4 @@ Check the code. Lithium has never had any loggers or malware. I have no reason t
 ## Credits
 * verlox - Main Developer
 * Russian Heavy - Developer
+![image](https://user-images.githubusercontent.com/120887075/229191676-14b672fa-7ba7-4e80-a1c2-88115adff404.png) 
